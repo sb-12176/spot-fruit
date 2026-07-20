@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['0', '1', '2', 'blueberry', 'blueberry-halfripe', 'blueberry-unripe']
+
+roboflow:
+  workspace: yybywj-wgevy
+  project: blueberry-lgogb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yybywj-wgevy/blueberry-lgogb/dataset/2
