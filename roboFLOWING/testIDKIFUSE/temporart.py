@@ -1,1 +1,0 @@
-print("twnety one piltos")
