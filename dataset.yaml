@@ -1,0 +1,10 @@
+path: C:\fruitDataset
+train: C:\fruitDataset\images\train
+val: C:\fruitDataset\images\val
+test: C:\fruitDataset\images\test
+names:
+  0: blueberry
+  1: blueberry-halfripe
+  2: blueberry-unripe
+  3: redapple
+  4: greenapple
